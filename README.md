@@ -1,4 +1,11 @@
 # Presentation Control
+Presentation Control is an Android app designed to make presenting on your computer easier and more efficient. With Presentation Control, you can control your computer from your Android device, enabling you to move around the room and interact with your audience without being tethered to your computer.
+
+The app features a touchpad-like area that allows you to control the cursor on your computer screen, as well as left and right mouse click buttons and scroll control buttons. This means you can navigate your presentation, click through slides, and interact with your content from your Android device.
+
+To use Presentation Control, simply install the client app on your computer and connect your Android device via Wi-Fi. Once connected, you can start controlling your presentation from your phone or tablet.
+
+Whether you're a teacher, speaker, or business professional, Presentation Control is the perfect tool to help you deliver seamless and engaging presentations. Try it out today and take your presentations to the next level!
 
 ## How to Use
 1. Make sure you have java `v1.8.0` or higher installed on your pc.
