@@ -16,7 +16,3 @@ Whether you're a teacher, speaker, or business professional, Presentation Contro
 6. Use the Presentation Controller app installed on your phone to connect to the client. This can be done either by typing the ip address displayed or scanning the QR Code.
 
 **NOTE:** Both, your android phone and windows computer should be on the same network for this to work.
-
-
-
-**THE SOURCE CODE WILL BE ADDED SOON :)**
