@@ -3,16 +3,20 @@ Presentation Control is an Android app designed to make presenting on your compu
 
 The app features a touchpad-like area that allows you to control the cursor on your computer screen, as well as left and right mouse click buttons and scroll control buttons. This means you can navigate your presentation, click through slides, and interact with your content from your Android device.
 
-To use Presentation Control, simply install the client app on your computer and connect your Android device via Wi-Fi. Once connected, you can start controlling your presentation from your phone or tablet.
-
 Whether you're a teacher, speaker, or business professional, Presentation Control is the perfect tool to help you deliver seamless and engaging presentations. Try it out today and take your presentations to the next level!
 
 ## How to Use
-1. Make sure you have java `v1.8.0` or higher installed on your pc.
-2. Download [Android APK](https://firebasestorage.googleapis.com/v0/b/tanishranjan-portfolio.appspot.com/o/Uploads%2F0w3ycbL9wjWqMDG7KtqZ%2FEC63-27F1%3AProduction%2FPresentation%20Control%2Fpresentation_controller_android.apk?alt=media&token=278d5b50-3d36-49a8-80e9-37c8f70698a1) on your android phone and install it.
-3. Download and unzip the [Windows Client](https://firebasestorage.googleapis.com/v0/b/tanishranjan-portfolio.appspot.com/o/Uploads%2F5oqenqwnkm7bhjMj279t%2FEC63-27F1%3AProduction%2FPresentation%20Control%2FPresentationServer.zip?alt=media&token=117e46c8-21c2-4ae5-b36b-7470e704fa5f).
-4. Head over to `PresentationServer -> bin` in the extracted folder.
-5. Now run the `PresentationServer.bat` file to start the client.
-6. Use the Presentation Controller app installed on your phone to connect to the client. This can be done either by typing the ip address displayed or scanning the QR Code.
+1. Download and Install the [Android APK](https://github.com/Tanish-Ranjan/Presentation-Control/releases/download/v1.0.2/Presentation_Controller_Android.apk) on your Android device.
+2. Download and Install the [Windows Client](https://github.com/Tanish-Ranjan/Presentation-Control/releases/download/v1.0.2/Presentation_Client_Windows.msi).
+3. Connect your Android and Windows devices to the same network.
+4. Start the Windows Client installed by the name Presentation Client on your Windows Machine.
+5. Run the Presentation Controller app you installed on your Android device and either scan the QR Code from the Presentation Client or enter the IP Address displayed.
+6. Once connected the controls will be displayed on the Android device.
 
-**NOTE:** Both, your android phone and windows computer should be on the same network for this to work.
+Enjoy your new experience with Presentations!
+
+## Controls:
+![Controls](https://github.com/Tanish-Ranjan/Presentation-Control/assets/62828604/7536e7fe-5ec7-40b3-ab8f-c8bb2b851272)
+
+## Latest Version
+The latest version of Presentation Control is [v.1.0.2](https://github.com/Tanish-Ranjan/Presentation-Control/releases/tag/v1.0.2) and it's source code is available as a [zip file](https://github.com/Tanish-Ranjan/Presentation-Control/releases/download/v1.0.2/SourceCode_PresentationController_v1.0.2.zip).
